@@ -1,4 +1,3 @@
-# created by virtualenv automatically
 *.py[cod]
 
 # C extensions
@@ -63,4 +62,3 @@ docs/_build
 .bootstrap
 .appveyor.token
 *.bak
-

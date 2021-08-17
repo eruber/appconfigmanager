@@ -1,0 +1,16 @@
+[paths]
+source =
+   src/appconfigmanager
+   */site-packages/appconfigmanager
+
+[run]
+branch = true
+source =
+    appconfigmanager
+    tests
+parallel = true
+
+[report]
+show_missing = true
+precision = 2
+omit = *migrations*
